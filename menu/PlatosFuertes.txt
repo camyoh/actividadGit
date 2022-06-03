@@ -1,4 +1,4 @@
-Listado de platos fuertes
-
-Arroz con Camarones
-Con encalada mixta o papas fritas
+LISTADO DE PLATOS FUERTES
+    - Salmon gratinado
+    - Costillas BBQ
+    - Lomo de cerdo en salsa de
