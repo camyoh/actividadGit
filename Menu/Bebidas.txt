@@ -1,1 +1,4 @@
 LISTADO DE BEBIDAS
+
+mojito: es un cóctel popular originario de Cuba, compuesto de ron, limón, menta o eucalipto y agua mineral. 
+cocacola: bebida azucarada
