@@ -1,1 +1,9 @@
 LISTADO DE BEBIDAS
+
+1. Yogur
+
+Es un producto lácteo obtenido mediante la fermentación de la leche.
+
+2. Michelada
+
+Bebida alcohólica Mexicana que se prepara mezclando cerveza, jugo de limón, picante y sal.
