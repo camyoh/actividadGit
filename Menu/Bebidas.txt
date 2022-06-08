@@ -7,3 +7,7 @@ Es un producto lácteo obtenido mediante la fermentación de la leche.
 2. Michelada
 
 Bebida alcohólica Mexicana que se prepara mezclando cerveza, jugo de limón, picante y sal.
+
+mojito: es un cóctel popular originario de Cuba, compuesto de ron, limón, menta o eucalipto y agua mineral. 
+cocacola: bebida azucarada
+
